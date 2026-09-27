@@ -6,7 +6,7 @@ A tiny demo app.
 
 ## Setup
 
-Read the setup guide in `docs/setup.md` before you start.
+Read the setup guide in `docs/install.md` before you start.
 
 This project needs Node 16.
 
