@@ -8,7 +8,7 @@ A tiny demo app.
 
 Read the setup guide in `docs/setup.md` before you start.
 
-This project needs Node 16.
+This project needs Node >=20.
 
 ## Usage
 
